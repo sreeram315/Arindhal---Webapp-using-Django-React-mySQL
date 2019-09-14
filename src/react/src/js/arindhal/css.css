@@ -1,0 +1,88 @@
+
+
+.headname_arindhal_home{
+	font-family: ;
+}
+
+.arindhal_home_content{
+
+}
+
+.arindhal_head{
+
+}
+
+.project_re{
+	font-size: 32px !important;
+}
+
+.hr_arindhal{
+	width: 30% !important;
+	margin-top: 5px;
+}
+
+.heading_arindhal{
+	line-height: 0;
+}
+
+.caption_arindhal{
+	font-size: 16px !important;
+
+}
+
+
+/*form*/
+
+.form_arindhal{
+	top: 10%;
+	padding-right: 4%;
+	padding-left: 4%;
+
+}
+
+
+
+.form_headname_arindhal{
+	font-family: AppleGothic;
+	font-size: 22px;
+	text-align: center;
+}
+
+.unfixed_form_arindhal{
+	padding-left: 13% !important;
+	padding-right: 9.4% !important;
+}
+
+.fixed_form_arindhal{
+	position: fixed;
+	top: 10%;
+	bottom: 10%;
+	padding-right: 4%;
+	padding-left: 4%;
+	padding-bottom: 3%;
+}
+
+.loading_symbol{
+	position: fixed;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+/* going out */
+
+
+.qa_each{
+	padding-left: 5%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.qa_q{
+	font-family: 'Book Antiqua', Palatino, 'Palatino Linotype', 'Palatino LT STD', Georgia, serif;
+	font-size: 32px;
+	margin-top:-5px;
+}
+
+.hr_qa{
+	margin-top: 0px;
+}

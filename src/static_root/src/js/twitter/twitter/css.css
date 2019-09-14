@@ -1,0 +1,99 @@
+
+.back_global{
+	background-color: #e3f2fd !important;
+}
+.color_global{
+	color: #e3f2fd !important;
+}
+.textarea_big{
+	height: 130px !important;
+}
+
+.local_list{
+	background-color: #dbe9ff;
+	height: 100% !important;
+	padding-top: 30px;
+
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.headname_local{
+	font-family: AppleGothic;
+	font-size: 20px;
+	background-color: #6687ba;
+	color: white;
+	border-top-right-radius: 10px;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	padding-left: 13% !important;
+
+
+}
+
+.text_color_red{
+	color: red !important
+}
+.text_color_blue{
+	color: blue !important
+}
+.text_color_grey{
+	color: grey !important
+}
+
+.local_like_but{
+	border: none !important;
+	background-color: #dbe9ff;
+	border-radius: 0px !important;
+	outline: none !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	padding-left: 10px !important;
+	padding-right: 18px !important;
+}
+.local_like_but:hover{
+	cursor: pointer;
+}
+
+.liked{
+	color: red;
+}
+.not_liked{
+	color: grey;
+}
+
+.new_tweet{
+	width: 100%;
+}
+
+.no_border{
+	border-radius: 0px !important;
+	outline: none !important;
+}
+.notoppad{
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+.username_beside{
+	opacity: 0.6;
+}
+
+.loadmore_but{
+	border-radius: 0px !important;
+	outline: none !important;
+}
+
+.loadmore_but:focus{
+	outline: none !important;
+}
+.pointer{
+	cursor: pointer;
+}
+.padr-10{
+	padding-right: 10% !important;
+}
+.replies{
+	padding-left: 10%;
+}
+

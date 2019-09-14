@@ -1,0 +1,95 @@
+
+ /*HEADER*/
+
+.headname_blog_expand{
+	font-family: Times New Roman;
+}
+
+.blog_By{
+	color: grey;
+	font-size: 18px;
+}
+
+.blog_author_name{
+	font-size: 30px;
+}
+
+.blog_time_created{
+	color: grey;
+	font-size: 20px;
+}
+
+.blog_time_left{
+	color: darkgrey;
+}
+
+.blog_time_right{
+	color: grey;
+}
+
+.genre_key{
+	color: grey;
+	font-size: 17px;
+}
+
+
+
+.blog_content_p::first-letter { 
+ padding-left: 3% !important;
+  font-size: 200%;
+  color: ;
+  font-family: Times New Roman;
+  line-height: 0.7;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+
+
+/*comments 
+*/
+
+.blog_comments_head{
+	color: grey;
+	font-size: 39px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

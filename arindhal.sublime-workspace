@@ -1,0 +1,1608 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"actions"
+			],
+			[
+				"lo",
+				"localLike\tproperty"
+			],
+			[
+				"sta",
+				"state\tproperty"
+			],
+			[
+				"li",
+				"liked\twarning"
+			],
+			[
+				"re",
+				"refresh\twarning"
+			],
+			[
+				"is",
+				"isRequired\twarning"
+			],
+			[
+				"Pro",
+				"PropTypes\talias"
+			],
+			[
+				"lik",
+				"likeTweetAction\twarning"
+			],
+			[
+				"pa",
+				"parent_slug"
+			],
+			[
+				"T",
+				"TweetInfo"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"like",
+				"liked"
+			],
+			[
+				"chi",
+				"child_tweet"
+			],
+			[
+				"use",
+				"userBasicDetailsAction\twarning"
+			],
+			[
+				"prp",
+				"props\twarning"
+			],
+			[
+				"this",
+				"thisComp\tconst"
+			],
+			[
+				"us",
+				"userDetails\twarning"
+			],
+			[
+				"user",
+				"userBasicDetails\twarning"
+			],
+			[
+				"foll",
+				"followers\twarning"
+			],
+			[
+				"pe",
+				"personIsSelfViewing\tlet"
+			],
+			[
+				"al",
+				"alreadyFollowing\tlet"
+			],
+			[
+				"hover",
+				"hoverFollowButText\twarning"
+			],
+			[
+				"dis",
+				"dispatch"
+			],
+			[
+				"pr",
+				"props\twarning"
+			],
+			[
+				"ge",
+				"getItem\tmethod"
+			],
+			[
+				"acc",
+				"acc2"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"v",
+				"vusername\twarning"
+			],
+			[
+				"Sea",
+				"SearchBox"
+			],
+			[
+				"num_",
+				"num_following"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"get",
+				"get_users"
+			],
+			[
+				"auth",
+				"authToken"
+			],
+			[
+				"slu",
+				"slug_f"
+			],
+			[
+				"se",
+				"SerializerMethodField"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"va",
+				"vname\twarning"
+			],
+			[
+				"Re",
+				"RegisterView\tscript"
+			],
+			[
+				"clas",
+				"className\twarning"
+			],
+			[
+				"API",
+				"APIView"
+			],
+			[
+				"class",
+				"classNames"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"set",
+				"setState\twarning"
+			],
+			[
+				"thi",
+				"thisComp\tconst"
+			],
+			[
+				"ne",
+				"nextProps\tparameter"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"Na",
+				"NavbarMain\tclass"
+			],
+			[
+				"da",
+				"dataa"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"loca",
+				"localStorage\tvar"
+			],
+			[
+				"cla",
+				"className\twarning"
+			],
+			[
+				"log",
+				"loginData"
+			],
+			[
+				"return",
+				"retuner"
+			],
+			[
+				"login",
+				"loginData\tlet"
+			],
+			[
+				"func",
+				"function\tkeyword"
+			],
+			[
+				"permission",
+				"permission_classes"
+			],
+			[
+				"prop",
+				"props\tparameter"
+			],
+			[
+				"or",
+				"order_by\tproperty"
+			],
+			[
+				"orde",
+				"order_by"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"redire",
+				"redirectPath\twarning"
+			],
+			[
+				"respon",
+				"responseData"
+			],
+			[
+				"resp",
+				"responseData\tparameter"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			],
+			[
+				"load",
+				"loadData\twarning"
+			],
+			[
+				"len",
+				"length\tproperty"
+			],
+			[
+				"BAS",
+				"BASE_DIR"
+			],
+			[
+				"from-",
+				"from-0"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"countr",
+				"country_of_issuance"
+			],
+			[
+				"Pay",
+				"PaymentMethod\tclass"
+			],
+			[
+				"Com",
+				"Component"
+			],
+			[
+				"response",
+				"responseJson\tparameter"
+			],
+			[
+				"Qu",
+				"QuestionResponseSerializer\tclass"
+			],
+			[
+				"q",
+				"Question\tclass"
+			],
+			[
+				"Q",
+				"Question\tclass"
+			],
+			[
+				"seria",
+				"serializer_class"
+			],
+			[
+				"Wel",
+				"WelcomeMatDiv"
+			],
+			[
+				"sender",
+				"sender_id"
+			],
+			[
+				"Lec",
+				"LectureNode〔class〕"
+			],
+			[
+				"lec",
+				"lectures"
+			],
+			[
+				"Proj",
+				"ProjectNode〔class〕"
+			],
+			[
+				"Django",
+				"DjangoFilterConnectionField〔module〕"
+			],
+			[
+				"L",
+				"LectureNode"
+			],
+			[
+				"Pr",
+				"ProjectNode〔class〕"
+			],
+			[
+				"User",
+				"UserModel"
+			],
+			[
+				"mes",
+				"message_data\tstatement"
+			],
+			[
+				"chat",
+				"chatmessage_set"
+			],
+			[
+				"Sear",
+				"SearchItemManager\tclass"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"sy",
+				"stylesheet"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"Chat",
+				"ChatQuerySetManager\tclass"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"COLOR_GRAY2R",
+				"COLOR_GRAY2RGBA\tinstance"
+			],
+			[
+				"COLOR_GRAY2",
+				"COLOR_GRAY2BGRA\tinstance"
+			],
+			[
+				"COLOR_GRAY",
+				"COLOR_GRAY2RGB\tinstance"
+			],
+			[
+				"file",
+				"filename\tstatement"
+			],
+			[
+				"out",
+				"output.avi"
+			],
+			[
+				"in",
+				"interpolation\tstatement"
+			],
+			[
+				"list",
+				"list_display\tstatement"
+			],
+			[
+				"fil",
+				"file2\tstatement"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"progressBar",
+				"progressBarHolder"
+			],
+			[
+				"progress",
+				"progressbar"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"vid",
+				"videoFiles"
+			],
+			[
+				"br",
+				"br\tTag"
+			],
+			[
+				"my",
+				"machine_type"
+			],
+			[
+				"machine",
+				"machine_type"
+			],
+			[
+				"mac",
+				"machine_type"
+			],
+			[
+				"h",
+				"HttpResponseRedirect\tclass"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"lecture",
+				"lecture_updates"
+			],
+			[
+				"request",
+				"requested_question\tstatement"
+			],
+			[
+				"Succe",
+				"successfully"
+			],
+			[
+				"logi",
+				"login_required\tfunction"
+			],
+			[
+				"stipe",
+				"stripe_id\tstatement"
+			],
+			[
+				"ap",
+				"api_key\tstatement"
+			],
+			[
+				"mu",
+				"MultipleObjectsReturned"
+			],
+			[
+				"does",
+				"DoesNotExist"
+			],
+			[
+				"Do",
+				"DoesNotExist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/twitter/api/views.py",
+			"settings":
+			{
+				"buffer_size": 2563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/react/src/js/twitter/DropdownCaret.js",
+			"settings":
+			{
+				"buffer_size": 1140,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/react/src/js/twitter/EachTweet.js",
+			"settings":
+			{
+				"buffer_size": 5238,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/react/src/js/twitter/TweetList.js",
+			"settings":
+			{
+				"buffer_size": 2142,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/react/src/js/actions/TwitterActions.js",
+			"settings":
+			{
+				"buffer_size": 3460,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/react/src/js/actions/types.js",
+			"settings":
+			{
+				"buffer_size": 905,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/react/src/js/reducers/TwitterReducers.js",
+			"settings":
+			{
+				"buffer_size": 635,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/react/src/js/StudentsMP/StudentList.js",
+			"settings":
+			{
+				"buffer_size": 6286,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/students/api/serializers.py",
+			"settings":
+			{
+				"buffer_size": 2430,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/react/src/js/StudentsMP/css.css",
+			"settings":
+			{
+				"buffer_size": 839,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/twitter/api/urls.py",
+			"settings":
+			{
+				"buffer_size": 670,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ty",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"paka",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"typescri",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"set",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"set syntax reac",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"set syntax: templ",
+				"Set Syntax: React Templates"
+			],
+			[
+				"re",
+				"Set Syntax: React Templates"
+			],
+			[
+				"slinter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"react templ",
+				"Set Syntax: React Templates"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sreerammaram/Desktop/arindhal-deploy 2/src",
+		"/Users/sreerammaram/Desktop/arindhal-deploy 2/src/students",
+		"/Users/sreerammaram/Desktop/arindhal-deploy 2/src/students/api"
+	],
+	"file_history":
+	[
+		"/Users/sreerammaram/Desktop/arindhal/src/twitter/utils.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/arindhal/settings/base.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/twitter/admin.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/twitter/api/urls.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/twitter/api/serializers.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/arindhal/urls.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/twitter/api/paginators.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/twitter/EachTweet.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/App.css",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/twitter/ReplyTweet.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/twitter/NewTweet.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar/NavbarMain.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/RouterMain.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/twitter/api/views.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/reducers/index.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/actions/types.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/reducers/TwitterReducers.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/actions/TwitterActions.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/twitter/ReplyModel.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/twitter/TweetList.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/templates/frontend/index.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/accounts/models.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/twitter/models.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/twitter/TwitterHomeView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/OpenProfileView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/accounts/api/urls.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/reducers/CamperReducer.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/StudentList.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/StudentListSortSection.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/StudentData.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/components/SearchBox.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar/KaalaSearchBox.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar/LoginDropDown.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/RegisterForm.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/actions/CamperActions.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/profile/ProfileView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar/KaalaSearchContent.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/profile/FollowersDispModel.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/Error404.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/OpenProfileData.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/accounts/api/views.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/css.css",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/home_page/home_page_contents/ManantIntro.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar/NavbarMain2.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/home_page/HomeView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar/UserDropDown.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/store.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/views.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/App.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/StudentsMPRouter.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/StudentMPNewEntry.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/StudentMPListView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/profile/UserData.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/CamperRouter.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/tester_page/Tester4.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/profile/ProfileEditView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/profile/css.css",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar/css.css",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/profile/UserEditData.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/accounts/api/serializers.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/tester_page/TesterView2.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/home_contents/HomeView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/tester_page/TesterView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/actions/LoginActions.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/components/Loader.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/RegisterView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/LeftOfRegister.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/camper/ProfileView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/api/views.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/StudentDetails.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/tester_page/GetToken.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/actions/postActions.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/reducers/postReducer.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/utils.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/accounts/admin.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/home_contents/not_logged_view_contents/css.css",
+		"/Users/sreerammaram/Desktop/arindhal/src/accounts/utils.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/home_contents/not_logged_view_contents/WelcomeText.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/home_contents/NotLoggedView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/home_contents/LoggedView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/NotLoggedView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/bst_js.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/components/RedirectTo.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/EntryForm.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/components/DisplayData.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/StudentMPHomeView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/StudentsMP/StudentMPDetailView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/webpack.config.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/accounts/api/__init__.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/admin.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/validators.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/api/permissions.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/api/serializers.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/api/urls.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/components/CardView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/utils.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/api/paginators.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/api/__init__.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/students/models.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/index.js",
+		"/Users/sreerammaram/Desktop/react-tester/tester/arinshal-fe.sublime-workspace",
+		"/Users/sreerammaram/Desktop/arindhal/src/arindhal/settings/production.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/templates/tester.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/camper/urls.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/containers/Navbar/Nav.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/containers/home_page/HomeView.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/templates/home.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/templates/snippets/nav.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/camper/templatetags/camper_filters.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/camper/templatetags/__init__.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/assets/src/js/index.js",
+		"/Users/sreerammaram/Desktop/arindhal/src/templates/snippets/js/js_base.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/templates/snippets/css/css_base.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/camper/views.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/templates/snippets/css/bts.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/arindhal/settings/local.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/arindhal/settings/__init__.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/settings/__init__.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/settings/base.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/settings/local.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/settings/production.py",
+		"/Users/sreerammaram/Desktop/arindhal/src/templates/base.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/.babelrc",
+		"/Users/sreerammaram/Desktop/arindhal/src/templates/snippets/css_base.html",
+		"/Users/sreerammaram/Desktop/arindhal/src/__init__.py",
+		"/Users/sreerammaram/Desktop/django/dorm/src/dorm/settings/settings",
+		"/Users/sreerammaram/Desktop/integration_test/src/assets/src/js/components/Title/index.js",
+		"/Users/sreerammaram/Desktop/integration_test/src/assets/src/js/index.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar",
+			"/Users/sreerammaram/Desktop/arindhal/src/react/src/js",
+			"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar",
+			"/Users/sreerammaram/Desktop/arindhal/src",
+			"/Users/sreerammaram/Desktop/arindhal/src/react/src/js",
+			"/Users/sreerammaram/Desktop/arindhal/src/react/src/js/navbar",
+			"/Users/sreerammaram/Desktop/arindhal/src/react/src/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"props.tweet",
+			"like",
+			"TwitterActions.js",
+			"ref",
+			"username in ",
+			"in",
+			"userBasicDetailsAction",
+			"console",
+			"requesting basic",
+			"console",
+			"LOGGED USE",
+			"console",
+			"RENDERING W",
+			"REDNDERING W",
+			"console",
+			"name",
+			"basic-de",
+			".",
+			"reactstrap.min",
+			"js",
+			"length",
+			"t.ap",
+			"apply",
+			"authToken.length",
+			"token.length",
+			").length",
+			"length",
+			"getUs",
+			"getUserName",
+			"back_black",
+			"width",
+			"map",
+			"upda",
+			"up",
+			"upda",
+			"sear",
+			"postData",
+			"all",
+			"console",
+			"wrongCreds",
+			"class",
+			"thisCom",
+			"Login",
+			"token",
+			"for",
+			"token",
+			"Tes",
+			"order_",
+			"order",
+			"serviceWorker",
+			"active"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/twitter/api/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/react/src/js/twitter/DropdownCaret.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/TypeScript/TypeScriptReact.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/react/src/js/twitter/EachTweet.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/TypeScript/TypeScriptReact.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 167.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/react/src/js/twitter/TweetList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1389,
+								1389
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/TypeScript/TypeScriptReact.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 120.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/react/src/js/actions/TwitterActions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/react/src/js/actions/types.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 905,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/react/src/js/reducers/TwitterReducers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/react/src/js/StudentsMP/StudentList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2994,
+								2994
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/students/api/serializers.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2085,
+								2085
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1557.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/react/src/js/StudentsMP/css.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								25
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/twitter/api/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 265.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "arindhal.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 870.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

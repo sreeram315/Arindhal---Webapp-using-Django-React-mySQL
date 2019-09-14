@@ -1,0 +1,33 @@
+  .spinner_big{
+  	width: 6rem !important;
+  	height: 6rem !important;
+  }
+
+  .local_font{
+  	font-size: 30px !important;
+  }
+
+  .color_red{
+  	color: red;
+  	text-decoration: none !important;
+  }
+
+  .color_red: hover{
+  	text-decoration: none !important;
+  	color: red !important;
+  }
+
+  .font_33{
+  	font-size: 33 !important;
+  }
+
+  .color-grey{
+  	color: grey !important;
+  }
+  .color-grey :hover{
+  	text-decoration: none !important;
+  }
+
+  .padt-local{
+  	padding-top: 5% !important;
+  }
