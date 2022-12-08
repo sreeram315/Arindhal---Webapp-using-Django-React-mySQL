@@ -19,7 +19,7 @@ botocore==1.12.71
 bs4==0.0.1
 cached-property==1.5.1
 cement==2.8.2
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.12.3
 channels==2.2.0
 channels-redis==2.4.0
